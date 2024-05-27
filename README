@@ -1,1 +1,8 @@
 该项目是一个简单的企业门户管理系统，Vue3+Express+MongoDB
+分为三个项目：
+admin为后台管理系统（启动：npm run serve）
+web为前台页面（启动：npm run serve）
+server为后端服务器（启动：npm start）
+数据库：
+db文件夹，MongoDB版本6
+（3.0版本的db已经弃用）
